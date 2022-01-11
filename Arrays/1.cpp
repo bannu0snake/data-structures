@@ -1,3 +1,4 @@
+//find min and max in an array
 #include<iostream>
 using namespace std;
 struct Pair
